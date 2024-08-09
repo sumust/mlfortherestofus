@@ -34,7 +34,7 @@ Schedule and what is covered
 code blocks for commands
 ```
 
-### Additional Resources
+## Additional Resources
 Info here
 
 ## Help
