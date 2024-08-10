@@ -30,7 +30,7 @@ Will link to slides for each lecture here
    * GridWorld with Value and Policy Iteration [code](info.md)
    * TBA
 * Lecture 4:
-   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda)
+   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) [code](info.md)
 * Lecture 5: None
 
 * [Link here](info.md)
