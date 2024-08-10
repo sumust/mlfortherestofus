@@ -1,11 +1,11 @@
 # ML Demos
 
 This website will host the materials for the ML course
-Description and details
+Description and details to be added
 
 ## Schedule
 
-Schedule and what is covered
+Schedule of the course and what is covered
 
 ## Materials
 
@@ -17,25 +17,34 @@ Schedule and what is covered
 * Lecture 4
 * Lecture 5
 
+Will link to slides for each lecture here
+
 ### Demos
 
-[Link here](info.md)
+* Lecture 1:
+   *  Multi-Layer Perceptron for Diabetes Prediction [code](info.md)
+* Lecture 2:
+   * Multi-Layer Perceptron for Stair Classification [code](info.md)
+   * Convolutional Neural Network for CIFAR-10 Classification [code](info.md) 
+* Lecture 3:
+   * GridWorld with Value and Policy Iteration [code](info.md)
+   * TBA
+* Lecture 4:
+   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda)
+* Lecture 5: None
 
-* How/where to download your program
-* Any instructions
+* [Link here](info.md)
+  
+Instructions will be added here or on demo page
 
 #### Prerequisites
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+TO BE DELETED?
 
 ## Additional Resources
-Info here
+
+* Barto and Sutton RL Textbook
+* David Silver Course
+* DeepRL Bootcamp
 
 ## Help
 
@@ -51,16 +60,6 @@ Contributors names and contact info
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
