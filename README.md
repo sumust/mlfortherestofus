@@ -1,4 +1,4 @@
-# ML Demos
+# AI for the Rest of Us - Lectures & Demos
 
 This website will host the materials for the ML course
 Description and details to be added
@@ -11,11 +11,11 @@ Schedule of the course and what is covered
 
 ### Lectures
 
-* Lecture 1
-* Lecture 2
-* Lecture 3
-* Lecture 4
-* Lecture 5
+* Lecture 1: Mathematical Background
+* Lecture 2: Neural Networks
+* Lecture 3: Model-Based Reinforcement Learning
+* Lecture 4: Sampling-Based Methods for Reinforcement Learning
+* Lecture 5: Deep Reinforcement Learning
 
 Will link to slides for each lecture here
 
@@ -33,8 +33,6 @@ Will link to slides for each lecture here
    *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) [code](info.md)
 * Lecture 5: None
 
-* [Link here](info.md)
-  
 Instructions will be added here or on demo page
 
 #### Prerequisites
@@ -42,7 +40,7 @@ TO BE DELETED?
 
 ## Additional Resources
 
-* Barto and Sutton RL Textbook
+* Barto and Sutton's Reinforcement Learning Textbook
 * David Silver Course
 * DeepRL Bootcamp
 
@@ -59,7 +57,3 @@ Contributors names and contact info
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
