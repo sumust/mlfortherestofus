@@ -1,6 +1,6 @@
-# AI for the Rest of Us - Lectures & Demos
+# AI for the Rest of Us (Lectures by Dr. Keshav Pingali)
 
-This website will host the materials for the ML course
+This website will host the materials for the AI for the Rest of Us course
 Description and details to be added
 
 ## Schedule
@@ -53,7 +53,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info --- filler
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
