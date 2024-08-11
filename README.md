@@ -34,7 +34,8 @@ Will link to slides for each lecture here
    *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) [instructions](randomwalk.md) | [code](info.md) 
 * Lecture 5: None
 
-#### Prerequisites
+## Prerequisites
+
 * Free Colab account to run the demos for Lecture 1 and 2
 * Any IDE (such as VS Code) to run Python for the demos for Lecture 3 and 4 
 
