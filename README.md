@@ -1,6 +1,7 @@
 # AI for the Rest of Us (Lectures by Dr. Keshav Pingali)
 
 This website will host the materials for the AI for the Rest of Us course
+
 Description and details to be added
 
 ## Schedule
@@ -27,10 +28,10 @@ Will link to slides for each lecture here
    * Multi-Layer Perceptron for Stair Classification [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
 * Lecture 3:
-   * GridWorld with Value and Policy Iteration [instructions](gridworld.md) [code](info.md)
+   * GridWorld with Value and Policy Iteration [instructions](gridworld.md) | [code](info.md)
    * TBA
 * Lecture 4:
-   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) [instructions](randomwalk.md) [code](info.md) 
+   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) [instructions](randomwalk.md) | [code](info.md) 
 * Lecture 5: None
 
 #### Prerequisites
