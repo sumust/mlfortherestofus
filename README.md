@@ -41,9 +41,9 @@ Will link to slides for each lecture here
 
 ## Additional Resources
 
-* Barto and Sutton's Reinforcement Learning Textbook 
-* David Silver Course
-* DeepRL Bootcamp
+* Barto and Sutton's Reinforcement Learning Textbook [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* David Silver's Reinforcement Learning Course [website](https://www.davidsilver.uk/teaching/)
+* DeepRL Bootcamp [website](https://sites.google.com/view/deep-rl-bootcamp)
 
 ## Help
 
