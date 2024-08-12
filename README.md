@@ -8,9 +8,7 @@ Description and details to be added
 
 Schedule of the course and what is covered
 
-## Materials
-
-### Lectures
+## Lectures
 
 * Lecture 1: Mathematical Background
 * Lecture 2: Neural Networks
@@ -20,7 +18,7 @@ Schedule of the course and what is covered
 
 Will link to slides for each lecture here
 
-### Demos
+## Demos
 
 * Lecture 1:
    *  Multi-Layer Perceptron for Diabetes Prediction | [dataset](diabetes.csv) | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
@@ -28,10 +26,10 @@ Will link to slides for each lecture here
    * Multi-Layer Perceptron for Stair Classification | [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification | [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
 * Lecture 3:
-   * GridWorld with Value and Policy Iteration | [instructions](gridworld.md) | [code](info.md)
+   * GridWorld with Value and Policy Iteration | [instructions](gridworld.md) | [code](gridworld.py)
    * TBA
 * Lecture 4:
-   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) | [instructions](randomwalk.md) | [code](info.md) 
+   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) | [instructions](randomwalk.md) | [code](random_walk.py) 
 * Lecture 5: None
 
 ## Prerequisites
