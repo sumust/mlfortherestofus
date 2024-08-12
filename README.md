@@ -23,7 +23,7 @@ Will link to slides for each lecture here
 ### Demos
 
 * Lecture 1:
-   *  Multi-Layer Perceptron for Diabetes Prediction [dataset](diabetes.csv) | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
+   *  Multi-Layer Perceptron for Diabetes Prediction | [dataset](diabetes.csv) | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
 * Lecture 2:
    * Multi-Layer Perceptron for Stair Classification | [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification | [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
@@ -41,9 +41,9 @@ Will link to slides for each lecture here
 
 ## Additional Resources
 
-* Barto and Sutton's Reinforcement Learning Textbook [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
-* David Silver's Reinforcement Learning Course [website](https://www.davidsilver.uk/teaching/)
-* DeepRL Bootcamp [website](https://sites.google.com/view/deep-rl-bootcamp)
+* Barto and Sutton's Reinforcement Learning Textbook | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* David Silver's Reinforcement Learning Course | [website](https://www.davidsilver.uk/teaching/)
+* DeepRL Bootcamp | [website](https://sites.google.com/view/deep-rl-bootcamp)
 
 ## Help
 
