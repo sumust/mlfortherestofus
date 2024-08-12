@@ -23,7 +23,7 @@ Will link to slides for each lecture here
 ### Demos
 
 * Lecture 1:
-   *  Multi-Layer Perceptron for Diabetes Prediction | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
+   *  Multi-Layer Perceptron for Diabetes Prediction [dataset](diabetes.csv) | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
 * Lecture 2:
    * Multi-Layer Perceptron for Stair Classification | [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification | [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
