@@ -9,7 +9,8 @@ There are 5 lectures encompassing two lectures on mathematical background for ma
 ## Lectures
 
 * Lecture 1: Mathematical Background
-  * Multivariate calculus, Parameter optimization, Gradient descent 
+  * Multivariate calculus, Parameter optimization, Gradient descent
+  * [Slides](https://docs.google.com/presentation/d/1ngr5PuFOLsXDUFa9t-dXC8kApwhMoLBo/edit?usp=sharing&ouid=110035650766496751216&rtpof=true&sd=true) 
 * Lecture 2: Neural Networks
   * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
   * Convolutional Neural Networks (CNNs)
