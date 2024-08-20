@@ -10,7 +10,7 @@ There are 5 lectures encompassing two lectures on mathematical background for ma
 
 * Lecture 1: Mathematical Background
   * Multivariate calculus, Parameter optimization, Gradient descent
-  * [Slides](https://docs.google.com/presentation/d/1ngr5PuFOLsXDUFa9t-dXC8kApwhMoLBo/edit?usp=sharing&ouid=110035650766496751216&rtpof=true&sd=true) 
+  * [Slides](https://utexas-my.sharepoint.com/:p:/r/personal/pingali_oden_utexas_edu/Documents/Desktop/BoostPingaliLecture1.pptx?d=w39aa39ae70c747cbbcd7058248a1dead&csf=1&web=1&e=cgb15a) 
 * Lecture 2: Neural Networks
   * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
   * Convolutional Neural Networks (CNNs)
