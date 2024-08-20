@@ -11,10 +11,20 @@ Schedule of the course and what is covered
 ## Lectures
 
 * Lecture 1: Mathematical Background
+  * Multivariate calculus, Parameter optimization, Gradient descent 
 * Lecture 2: Neural Networks
+  * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
+  * Convolutional Neural Networks (CNNs)
+  * Recurrent Neural Networks (RNNs)
 * Lecture 3: Model-Based Reinforcement Learning
+  *  Markov Decision Processes (MDPs)
+  *  Value and Policy Iterations
 * Lecture 4: Sampling-Based Methods for Reinforcement Learning
+  * Temporal Difference (TD) Learning: TD(0), TD(n), SARSA, Q-Learning, TD(λ)
+  * Monte Carlo Methods
 * Lecture 5: Deep Reinforcement Learning
+  *  Function approximation
+  *  Policy gradient methods for policy optimization
 
 Will link to slides for each lecture here
 
@@ -29,7 +39,7 @@ Will link to slides for each lecture here
    * GridWorld with Value and Policy Iteration | [instructions](gridworld.md) | [code](gridworld.py)
    * TBA
 * Lecture 4:
-   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(lambda) | [instructions](randomwalk.md) | [code](random_walk.py) 
+   *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(λ) | [instructions](randomwalk.md) | [code](random_walk.py) 
 * Lecture 5: None
 
 ## Prerequisites
