@@ -27,8 +27,10 @@ There are 5 lectures encompassing two lectures on mathematical background for ma
 
 ## Demos
 
+Slides on the demos are available [here](https://docs.google.com/presentation/d/1Bc5NhpS8QXcyvbh3FCrm3Tv_crgKyFjDqr7ap40cBXc/edit?usp=sharing) 
+
 * Lecture 1:
-   *  Multi-Layer Perceptron for Diabetes Prediction | [dataset](diabetes.csv) | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
+   * Optional: Multi-Layer Perceptron for Diabetes Prediction | [dataset](diabetes.csv) | [code](https://colab.research.google.com/drive/1CgYu6hCS4VWEGSyLuDOdiqwp29GzK4Re?usp=sharing)
 * Lecture 2:
    * Multi-Layer Perceptron for Stair Classification | [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification | [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
