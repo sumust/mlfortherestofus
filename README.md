@@ -1,6 +1,6 @@
-# AI for the Rest of Us (Lectures by Dr. Keshav Pingali)
+# Machine Learning (ML) for the Rest of Us (Lectures by Dr. Keshav Pingali)
 
-This website hosts the materials for the AI for the Rest of Us course, presented by Dr. Keshav Pingali at BOOST'24 (Bologna Orthogonal Summer Term) in Bologna, Italy in August 2024.
+This website hosts the materials for the ML for the Rest of Us course, presented by Dr. Keshav Pingali at BOOST'24 (Bologna Orthogonal Summer Term) in Bologna, Italy in August 2024.
 
 ## Schedule
 
