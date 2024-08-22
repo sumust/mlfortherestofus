@@ -41,8 +41,7 @@ Slides on the demos are available [here](https://docs.google.com/presentation/d/
    * Multi-Layer Perceptron for Stair Classification | [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification | [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
 * Lecture 3:
-   * Recurrent Neural Network for Weather Prediction | [dataset](filtered_file.csv) | [code](rnn.py)
-   * TBA
+   * Recurrent Neural Network for Weather Prediction | [dataset](filtered_file.csv) | [code](https://colab.research.google.com/drive/1BR9gtMtn41fdGg74r_WrTOgmLfEEY91b?usp=sharing)
 * Lecture 4:
    * GridWorld with Value and Policy Iteration | [instructions](gridworld.md) | [code](gridworld.py)
 * Lecture 5:
