@@ -13,11 +13,11 @@ There are 5 lectures encompassing three lectures on mathematical background for 
   * [Slides](https://1drv.ms/p/s!AuqP3nE2C2pyazxNesHkgF-W840?e=xANgIQ) 
 * Lecture 2: Neural Networks
   * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
-  * [Slides](https://utexas.app.box.com/s/qcinjwck9gy7p4y85ro9da5eanwus2jx)
+  * [Slides](https://1drv.ms/p/s!AuqP3nE2C2pycFXi0J0EEXMhQ5E?e=pvVhFJ)
 * Lecture 3: Neural Networks, Continued
   * Convolutional Neural Networks (CNNs)
   * Recurrent Neural Networks (RNNs)
-  * [Slides](https://utexas.app.box.com/s/qcinjwck9gy7p4y85ro9da5eanwus2jx)
+  * [Slides](https://1drv.ms/p/s!AuqP3nE2C2pycFXi0J0EEXMhQ5E?e=pvVhFJ)
 * Lecture 4: Model-Based Reinforcement Learning
   * Markov Decision Processes (MDPs)
   * Value and Policy Iterations
