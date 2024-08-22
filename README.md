@@ -4,7 +4,7 @@ This website hosts the materials for the ML for the Rest of Us course, presented
 
 ## Schedule
 
-There are 5 lectures encompassing two lectures on mathematical background for machine learning (ML) and neural networks, and three lectures on reinforcement learning (RL).
+There are 5 lectures encompassing three lectures on mathematical background for machine learning (ML) and neural networks, and two lectures on reinforcement learning (RL).
 
 ## Lectures
 
@@ -13,18 +13,22 @@ There are 5 lectures encompassing two lectures on mathematical background for ma
   * [Slides](https://utexas-my.sharepoint.com/:p:/r/personal/pingali_oden_utexas_edu/Documents/Desktop/BoostPingaliLecture1.pptx?d=w39aa39ae70c747cbbcd7058248a1dead&csf=1&web=1&e=cgb15a) 
 * Lecture 2: Neural Networks
   * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
+* Lecture 3: Neural Networks, Continued
   * Convolutional Neural Networks (CNNs)
   * Recurrent Neural Networks (RNNs)
   * [Slides](https://utexas.app.box.com/s/qcinjwck9gy7p4y85ro9da5eanwus2jx)
-* Lecture 3: Model-Based Reinforcement Learning
-  *  Markov Decision Processes (MDPs)
-  *  Value and Policy Iterations
-* Lecture 4: Sampling-Based Methods for Reinforcement Learning
+* Lecture 4: Model-Based Reinforcement Learning
+  * Markov Decision Processes (MDPs)
+  * Value and Policy Iterations
+  * Slides: TBA
+* Lecture 5: Sampling-Based Methods for Reinforcement Learning
   * Temporal Difference (TD) Learning: TD(0), TD(n), SARSA, Q-Learning, TD(λ)
   * Monte Carlo Methods
-* Lecture 5: Deep Reinforcement Learning
-  *  Function approximation
-  *  Policy gradient methods for policy optimization
+  * Slides: TBA
+* Optional - Lecture 6: Deep Reinforcement Learning
+  * Function approximation
+  * Policy gradient methods for policy optimization
+  * Slides: TBA
 
 ## Demos
 
@@ -36,16 +40,17 @@ Slides on the demos are available [here](https://docs.google.com/presentation/d/
    * Multi-Layer Perceptron for Stair Classification | [code](https://colab.research.google.com/drive/1wo8K8tj2gPxzHOVExxFHTSexl45u4BDa?usp=sharing)
    * Convolutional Neural Network for CIFAR-10 Classification | [code](https://colab.research.google.com/drive/1ItV5SHOJQA90XhBlORIdKCdkt1Y1Pdoi?usp=sharing) 
 * Lecture 3:
-   * GridWorld with Value and Policy Iteration | [instructions](gridworld.md) | [code](gridworld.py)
+   * Recurrent Neural Network for Weather Prediction | [dataset](filtered_file.csv) | [code](rnn.py)
    * TBA
 * Lecture 4:
+   * GridWorld with Value and Policy Iteration | [instructions](gridworld.md) | [code](gridworld.py)
+* Lecture 5:
    *  N-state Random Walk for Model-free Methods: MC, TD(N) and TD(λ) | [instructions](randomwalk.md) | [code](random_walk.py) 
-* Lecture 5: None
 
 ## Prerequisites
 
-* Free Colab account to run the demos for Lecture 1 and 2
-* Any IDE (such as VS Code) to run Python for the demos for Lecture 3 and 4 
+* Free Colab account to run the demos for Lecture 1, 2 and 3
+* Any IDE (such as VS Code) to run Python for the demos for Lecture 4 and 5
 
 ## Additional Resources
 
