@@ -10,7 +10,7 @@ There are 5 lectures encompassing three lectures on mathematical background for 
 
 * Lecture 1: Mathematical Background
   * Multivariate calculus, Parameter optimization, Gradient descent
-  * [Slides](https://utexas-my.sharepoint.com/:p:/r/personal/pingali_oden_utexas_edu/Documents/Desktop/BoostPingaliLecture1.pptx?d=w39aa39ae70c747cbbcd7058248a1dead&csf=1&web=1&e=cgb15a) 
+  * [Slides](https://1drv.ms/p/s!AuqP3nE2C2pyazxNesHkgF-W840?e=xANgIQ) 
 * Lecture 2: Neural Networks
   * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
   * [Slides](https://utexas.app.box.com/s/qcinjwck9gy7p4y85ro9da5eanwus2jx)
