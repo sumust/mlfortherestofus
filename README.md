@@ -13,6 +13,7 @@ There are 5 lectures encompassing three lectures on mathematical background for 
   * [Slides](https://utexas-my.sharepoint.com/:p:/r/personal/pingali_oden_utexas_edu/Documents/Desktop/BoostPingaliLecture1.pptx?d=w39aa39ae70c747cbbcd7058248a1dead&csf=1&web=1&e=cgb15a) 
 * Lecture 2: Neural Networks
   * Multilayer Perceptrons (MLPs) and Deep Neural Networks (DNNs)
+  * [Slides](https://utexas.app.box.com/s/qcinjwck9gy7p4y85ro9da5eanwus2jx)
 * Lecture 3: Neural Networks, Continued
   * Convolutional Neural Networks (CNNs)
   * Recurrent Neural Networks (RNNs)
