@@ -21,7 +21,7 @@ There are 5 lectures encompassing three lectures on mathematical background for 
 * Lecture 4: Model-Based Reinforcement Learning
   * Markov Decision Processes (MDPs)
   * Value and Policy Iterations
-  * Slides: TBA
+  * [Slides](https://1drv.ms/p/s!AuqP3nE2C2pydlKmaW_gjV10Fxg?e=OHipHV)
 * Lecture 5: Sampling-Based Methods for Reinforcement Learning
   * Temporal Difference (TD) Learning: TD(0), TD(n), SARSA, Q-Learning, TD(λ)
   * Monte Carlo Methods
