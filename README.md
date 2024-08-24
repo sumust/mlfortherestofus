@@ -58,6 +58,7 @@ Slides on the demos are available [here](https://docs.google.com/presentation/d/
 * David Silver's Reinforcement Learning Course | [website](https://www.davidsilver.uk/teaching/)
 * DeepRL Bootcamp | [website](https://sites.google.com/view/deep-rl-bootcamp)
 * Pieter Abbeel's Foundations of DeepRL series | [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
+* Github repo with tutorials on RL with code and demos from Tim Miller, University of Queensland | [website](https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html)
 
 ## Help
 
